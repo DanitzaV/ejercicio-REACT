@@ -1,0 +1,30 @@
+.contenedorUL{
+    width: 30%;
+    height: 20%;
+    list-style: none;
+    
+}
+.foto{
+  width: 30%;
+}
+.contTarjeta{
+  padding: 1%;
+  
+  background-color: rgb(224, 224, 224);
+  
+  
+}
+.informacion{
+  margin-left:35%;
+}
+.listpark{
+  background-color: rgb(91, 204, 91);
+  margin-bottom: 5%;
+  border-radius: 5%;
+}
+.center{
+  margin-left: 45%;
+}
+.tituloInfo{
+  margin-left: 40%;
+}
